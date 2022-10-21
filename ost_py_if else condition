@@ -6,3 +6,10 @@ if age >= 18:
 else:
    print("not Eligible for voting!")
    
+number=int(input("Enter the number :"))
+if number>10:
+   print("Greater than 10")
+else:
+   print("Smaller than 10")
+   
+
